@@ -14,7 +14,6 @@ public class Main
 		System.out.println();
 		System.out.println();
 
-		//test
 		int[] iNumbers = {9,2,4,1,5,8,6};
 		Sort.insertion(iNumbers);
 		for(int i = 0; i < iNumbers.length; i++) 
